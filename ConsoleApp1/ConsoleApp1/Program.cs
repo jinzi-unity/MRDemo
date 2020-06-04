@@ -1,6 +1,6 @@
 ﻿using System;
 /// <summary>
-/// mester主分支
+/// master主分支
 /// </summary>
 namespace ConsoleApp1
 {
