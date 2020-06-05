@@ -1,7 +1,8 @@
 ﻿using System;
 /// <summary>
 /// master主分支
-/// jinquan 添加了一个注释
+/// jinquan    添加了一个注释
+/// changjiang 添加了一个注释
 /// </summary>
 namespace ConsoleApp1
 {
