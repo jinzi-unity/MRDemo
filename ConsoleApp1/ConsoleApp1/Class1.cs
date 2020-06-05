@@ -8,5 +8,19 @@ namespace ConsoleApp1
 {
     class Class1
     {
+        int a = 0;
+        int b = 1;
+
+        int c;
+
+        void init() {
+            c = a * b;
+        }
+
+
+        void Func1() 
+        {
+            Console.WriteLine("打印func1");
+        }
     }
 }
