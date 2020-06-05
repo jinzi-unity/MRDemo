@@ -16,5 +16,11 @@ namespace ConsoleApp1
         void init() {
             c = a * b;
         }
+
+
+        void Func1() 
+        {
+            Console.WriteLine("打印func1");
+        }
     }
 }
