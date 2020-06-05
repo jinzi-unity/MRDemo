@@ -1,6 +1,7 @@
 ﻿using System;
 /// <summary>
 /// master主分支
+/// jinquan 添加了一个注释
 /// </summary>
 namespace ConsoleApp1
 {
@@ -24,5 +25,6 @@ namespace ConsoleApp1
         static void LogValue(int value) {
             Console.WriteLine(value);
         }
+        
     }
 }
