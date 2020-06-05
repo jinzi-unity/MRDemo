@@ -17,5 +17,12 @@ namespace ConsoleApp1
 
             Console.WriteLine(c);
         }
+        /// <summary>
+        /// master实现了一个方法
+        /// </summary>
+        /// <param name="value"></param>
+        static void LogValue(int value) {
+            Console.WriteLine(value);
+        }
     }
 }
